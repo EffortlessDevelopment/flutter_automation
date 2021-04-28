@@ -14,9 +14,8 @@ dependencies:
   args: ^1.6.0
   yaml: ^2.2.1
   path: ^1.7.0
-  http: ^0.12.2
+  http: ^0.13.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
